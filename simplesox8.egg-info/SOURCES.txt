@@ -1,0 +1,9 @@
+README.md
+setup.py
+simplesox8/__init__.py
+simplesox8/client.py
+simplesox8/server.py
+simplesox8.egg-info/PKG-INFO
+simplesox8.egg-info/SOURCES.txt
+simplesox8.egg-info/dependency_links.txt
+simplesox8.egg-info/top_level.txt
